@@ -1,15 +1,16 @@
 <template>
   <b-navbar toggleable="lg">
-    <b-navbar-brand to="/">Albert.</b-navbar-brand>
+    <b-navbar-brand to="/">Home.</b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav>
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
         <b-navbar-nav>
-          <b-nav-item href="/about">About</b-nav-item>
-          <b-nav-item href="/projects">Projects</b-nav-item>
-          <b-nav-item href="/contact">Contact Me</b-nav-item>
+          <b-nav-item to="/blog">Blog</b-nav-item>
+          <b-nav-item to="/about">About</b-nav-item>
+          <b-nav-item to="/projects">Projects</b-nav-item>
+          <b-nav-item to="/contact">Contact Me</b-nav-item>
         </b-navbar-nav>
       </b-navbar-nav>
     </b-collapse>
