@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="px-3 py-md-5">
     <b-row align-v="center">
-      <b-col cols="4">
+      <b-col md="4" sm="12">
         <b-img
           thumbnail
           fluid
@@ -11,9 +11,9 @@
           width="300"
         ></b-img>
       </b-col>
-      <b-col cols="8">
+      <b-col md="8" sm="12">
         <p class="text-muted">Web Developer</p>
-        <h1 class="font-weight-bold">Dimas Albert Abraham</h1>
+        <h3 class="font-weight-bold">Dimas Albert Abraham</h3>
         <p id="desc" class="text-justify">
           Seorang yang suka mengulik tentang website dan saat ini tengah
           mendalami laravel, VueJS dan NuxtJS. Selain itu pernah magang di
@@ -48,6 +48,11 @@
 <script>
 export default {
   name: 'IndexPage',
+  head() {
+    return {
+      title: 'Albert - Web Developer',
+    }
+  },
 }
 </script>
 <style scoped>
