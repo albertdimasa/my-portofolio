@@ -22,7 +22,7 @@ export default {
         {
           id: 1,
           name: 'Alter Admin',
-          img: '',
+          img: 'project-1.png',
           description:
             'Website kasir sederhana dengan 3 user yaitu pemilik, supplier, dan kasir. Beberapa fitur yang dimiliki yaitu fitur kasir, pencatatan barang keluar/masuk, print struk, dan export data ke excel.',
           link: '',
@@ -30,7 +30,7 @@ export default {
         {
           id: 2,
           name: 'PSB Fatchul Ulum Pacet',
-          img: '',
+          img: 'project-2.png',
           description:
             'Website digunakan untuk pendaftaran santri baru dengan 2 user yaitu santri baru dan admin. Beberapa fitur yang dimiliki pendaftaran santri (CRUD) dan pembuatan surat keputusan daftar ulang berupa pdf.',
           link_demo: '//psb.fatchululumpacet.net',
@@ -39,7 +39,7 @@ export default {
         {
           id: 3,
           name: 'Barter Book',
-          img: '',
+          img: 'project-3.png',
           description:
             'Website yang dibuat ketika mengikuti studi independen kampus merdeka tahun 2022 yang memiliki beberapa fitur yaitu autentikasi, pinjam-meminjam buku, dan mengelola buku.',
           link_demo: '//miniproject-albert.netlify.app/',

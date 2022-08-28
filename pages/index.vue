@@ -5,10 +5,11 @@
         <b-img
           thumbnail
           fluid
-          src="https://avatars.githubusercontent.com/u/79139168?v=4"
+          src="~/static/home.jpg"
           alt="Me"
           rounded="circle"
           width="300"
+          height="300"
         ></b-img>
       </b-col>
       <b-col md="8" sm="12">

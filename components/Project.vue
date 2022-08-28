@@ -1,8 +1,8 @@
 <template>
   <b-card
     :title="project.name"
-    img-src="https://picsum.photos/600/300/?image=25"
-    img-alt="Image"
+    :img-src="require(`~/static/${project.img}`)"
+    img-alt="project"
     img-top
     tag="article"
     class="mb-2 project-card"
