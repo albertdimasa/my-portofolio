@@ -1,5 +1,5 @@
 <template>
-  <b-navbar toggleable="lg">
+  <b-navbar toggleable="lg" class="pt-4 pb-5">
     <b-navbar-brand to="/">Home.</b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

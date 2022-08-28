@@ -1,10 +1,8 @@
 <template>
   <b-container>
-    <div class="pt-4 pb-5">
-      <Navbar />
-    </div>
+    <Navbar />
     <Nuxt />
-    <Footer />
+    <!-- <Footer /> -->
   </b-container>
 </template>
 
@@ -25,5 +23,7 @@ body {
 #footer {
   font-size: 13px;
   font-family: 'Inter';
+  /* position: fixed;
+  bottom: 0; */
 }
 </style>
