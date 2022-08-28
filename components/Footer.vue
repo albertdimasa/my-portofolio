@@ -12,11 +12,8 @@ export default {
 
 <style>
 #footer {
-  background-color: red;
   font-size: 13px;
   font-family: 'Inter';
-  flex-grow: 0;
-  flex-shrink: 0;
-  flex-basis: auto;
+  margin-top: 30px;
 }
 </style>

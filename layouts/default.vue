@@ -1,8 +1,10 @@
 <template>
   <b-container>
     <Navbar />
-    <Nuxt />
-    <!-- <Footer /> -->
+    <div class="wrapper">
+      <Nuxt />
+    </div>
+    <Footer />
   </b-container>
 </template>
 
@@ -15,15 +17,11 @@ export default {
 <style>
 body {
   background-color: #fff4cf;
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
   font-family: 'Poppins', 'Inter', sans-serif;
 }
-
-#footer {
-  font-size: 13px;
-  font-family: 'Inter';
-  /* position: fixed;
-  bottom: 0; */
+.wrapper {
+  min-height: calc(100vh - 11rem);
 }
 </style>
