@@ -1,6 +1,6 @@
 <template>
-  <div class="px-5">
-    <h1 class="text-center pb-3">About</h1>
+  <div class="px-md-5">
+    <h1 class="text-center pb-3 font-weight-bold">About</h1>
     <div class="mx-md-5 text-justify content">
       <p>
         Salam kenal👋 Aku Albert, seorang <i>fresh graduate</i> dari prodi
@@ -46,5 +46,17 @@ p {
 .content {
   padding: 0 5rem;
   line-height: 1.7;
+}
+
+@media only screen and (max-width: 990px) {
+  .content {
+    padding: 0 0.5rem;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .content {
+    padding: 0 1.5rem;
+  }
 }
 </style>

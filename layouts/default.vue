@@ -16,7 +16,7 @@ export default {
 
 <style>
 body {
-  background-color: #fff4cf;
+  background-color: #f9d5bb;
   min-height: 100vh;
   width: 100%;
   font-family: 'Poppins', 'Inter', sans-serif;

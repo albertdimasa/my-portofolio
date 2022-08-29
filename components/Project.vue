@@ -7,10 +7,15 @@
     tag="article"
     class="mb-2 project-card"
   >
+    <TechStack
+      v-for="(techstack, index) in project.tech_stack"
+      :key="techstack.id"
+      :techstack="techstack"
+      :index="index"
+    />
     <b-card-text class="text-description text-justify">
       {{ project.description }}
     </b-card-text>
-
     <b-button
       v-if="project.link_demo"
       :href="project.link_demo"
