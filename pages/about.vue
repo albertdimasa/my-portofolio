@@ -3,17 +3,17 @@
     <h1 class="text-center pb-3 font-weight-bold">About</h1>
     <div class="mx-md-5 text-justify content">
       <p>
-        Salam kenal👋 Aku Albert, seorang <i>fresh graduate</i> dari prodi
+        Salam kenal👋🏿 Aku Albert, seorang <i>fresh graduate</i> dari prodi
         informatika, Universitas Internasional Semen Indonesia. Saat ini tengah
-        menggeluti bidang <b>Web Developer</b>, baik itu <i>Backend</i> maupun
-        <i>Frontend</i>. Saat ini aku sedang bekerja di bidang <i>SAP</i>. 
+        belajar mengenai <b>Web Developer</b>, baik itu <i>Backend</i> maupun
+        <i>Frontend</i>. Tetapi, ranah pekerjaan saya di bidang <i>SAP</i>. 
       </p>
       <p>
-        Pelatihan yang pernah aku ikuti yaitu studi independen kampus merdeka 
+        Aku pernah mengikuti pelatihan studi independen kampus merdeka 
         selama 6 bulan di Alterra Academy dengan program bernama
         <i>Understand Everything about Vue JS Front-End Engineer</i> yang bertujuan
         untuk mempelajari <b>Vue Js</b> dan <b>Nuxt Js</b>. Setelah pembelajaran selesai,
-        diberikan case yang dikerjakan secara berkelompok dengan bagian lainnya.
+        diberikan case yang dikerjakan secara berkelompok sesuai dengan bagian-bagiannya.
       </p>
       <p>
         Teknologi yang aku kuasai saat ini adalah <b>HTML</b>, <b>CSS</b>,
@@ -22,7 +22,7 @@
         beserta dengan <i>framework</i>-nya yaitu <b>Express Js</b> dan <b>Nuxt Js</b>.
       </p>
       <p> 
-        Berikut adalah <a href="https://s.id/AlbertCV" target="_blank">resume</a> mengenai diriku.
+        Lebih lengkapnya kalian bisa cek <a href="https://s.id/AlbertCV" target="_blank">resume-ku</a> aja.
       </p>
     </div>
   </div>

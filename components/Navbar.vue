@@ -7,10 +7,10 @@
       <!-- Right aligned nav items -->
       <b-navbar-nav class="ml-auto">
         <b-navbar-nav>
-          <b-nav-item to="/blog">Blog</b-nav-item>
           <b-nav-item to="/about">About</b-nav-item>
           <b-nav-item to="/projects">Projects</b-nav-item>
-          <b-nav-item to="/contact">Contact Me</b-nav-item>
+          <b-nav-item to="/contact">Contact</b-nav-item>
+          <b-nav-item to="/blog">Blog</b-nav-item>
         </b-navbar-nav>
       </b-navbar-nav>
     </b-collapse>
