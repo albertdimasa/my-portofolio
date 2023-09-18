@@ -13,11 +13,11 @@
         ></b-img>
       </b-col>
       <b-col md="8" sm="12">
-        <p class="text-muted">Web Developer</p>
+        <p class="text-muted">Web Developer | SAP Programmer</p>
         <h3 class="font-weight-bold">Dimas Albert Abraham</h3>
         <p id="desc" class="text-justify">
           Seorang yang suka mengulik tentang website dan saat ini tengah
-          mendalami laravel, VueJS dan NuxtJS. Selain itu pernah magang di
+          mendalami Laravel, VueJS dan NuxtJS. Selain itu pernah magang di
           startup maupun freelance. Bekerja secara tim ataupun individu juga
           tidak masalah.
         </p>
@@ -51,7 +51,7 @@ export default {
   name: 'IndexPage',
   head() {
     return {
-      title: 'Albert - Web Developer',
+      title: 'Albert - My Portfolio',
     }
   },
 }

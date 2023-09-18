@@ -4,29 +4,25 @@
     <div class="mx-md-5 text-justify content">
       <p>
         Salam kenal👋 Aku Albert, seorang <i>fresh graduate</i> dari prodi
-        informatika Universitas Internasional Semen Indonesia. Saat ini tengah
+        informatika, Universitas Internasional Semen Indonesia. Saat ini tengah
         menggeluti bidang <b>Web Developer</b>, baik itu <i>Backend</i> maupun
-        <i>Frontend</i>.
+        <i>Frontend</i>. Saat ini aku sedang bekerja di bidang <i>SAP</i>. 
       </p>
       <p>
-        Saya pernah mengikuti studi independen kampus merdeka selama 6 bulan di
-        Alterra Academy dengan program bernama
-        <i>Understand Everything about Vue JS Front-End Engineer</i> untuk
-        mempelajari <b>Vue Js</b>. Selain itu, saya mendapatkan pengalaman
-        bekerja secara individu ataupun tim.
+        Pelatihan yang pernah aku ikuti yaitu studi independen kampus merdeka 
+        selama 6 bulan di Alterra Academy dengan program bernama
+        <i>Understand Everything about Vue JS Front-End Engineer</i> yang bertujuan
+        untuk mempelajari <b>Vue Js</b> dan <b>Nuxt Js</b>. Setelah pembelajaran selesai,
+        diberikan case yang dikerjakan secara berkelompok dengan bagian lainnya.
       </p>
       <p>
-        Teknologi yang saya kuasai saat ini adalah <b>HTML</b>, <b>CSS</b>,
-        <b>Javascript</b>, <b>JQuery</b>, dan <b>Laravel</b>. Selain itu, saya
-        sedang mempelajari <b>Node Js</b> & <b>Vue Js</b>, begitu pula dengan
-        <i>framework</i>-nya yaitu <b>Express Js</b> dan <b>Nuxt Js</b>.
-        Database yang saya kuasai yaitu <b>MySQL</b> dan <b>MongoDB</b>.
+        Teknologi yang aku kuasai saat ini adalah <b>HTML</b>, <b>CSS</b>,
+        <b>Javascript</b>, <b>JQuery</b>, <b>PHP Laravel Livewire</b>, <b>ABAP</b>, dan <b>SQL</b>. 
+        Selain itu, aku juga sedang belajar <b>Node Js</b> & <b>Vue Js</b>, 
+        beserta dengan <i>framework</i>-nya yaitu <b>Express Js</b> dan <b>Nuxt Js</b>.
       </p>
-      <p>
-        Saat ini, saya sedang mencari kesempatan untuk menjadi
-        <i>Full-time</i> ataupun <i>Part-time Web Developer</i>. Berikut adalah
-        <a href="https://s.id/AlbertCV" target="_blank">resume</a> mengenai
-        saya.
+      <p> 
+        Berikut adalah <a href="https://s.id/AlbertCV" target="_blank">resume</a> mengenai diriku.
       </p>
     </div>
   </div>
