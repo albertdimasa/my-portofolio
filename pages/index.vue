@@ -13,11 +13,11 @@
         ></b-img>
       </b-col>
       <b-col md="8" sm="12">
-        <p class="text-muted">Web Developer | SAP Programmer</p>
+        <p class="text-muted">Web Developer | SAP ABAP Programmer</p>
         <h3 class="font-weight-bold">Dimas Albert Abraham</h3>
         <p id="desc" class="text-justify">
           Seorang yang suka mengulik tentang website dan saat ini tengah
-          mendalami Laravel, VueJS dan NuxtJS. Selain itu pernah magang di
+          mendalami Laravel, VueJS dan Bun. Selain itu pernah magang di
           startup maupun freelance. Bekerja secara tim ataupun individu juga
           tidak masalah.
         </p>
